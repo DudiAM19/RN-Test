@@ -1,0 +1,15 @@
+1. Previously I used React JS, and after using React JS for a while I learned React Native to develop mobile applications. why do I use react native because react native has similarities with react js
+2. 7.5
+3. 4, -useState, -useEffect, -useContext, -useRef
+4. - Flatlist is built to render a large list of items.
+   - ScrollView is built to render a generic content in a way   that it scrolls when the content is bigger than the ScrollView itself
+5. - Functional components can only use props, that's why function components are called stateless components or commonly used as UI Components (components that handle display).
+   - Class components can use state and props
+6. yes, i use redux. redux is used to store state, the state stored in redux can be used globally or can be called anywhere.
+7. i use many package and library.
+   - react native geolocation
+   - react native socket.io
+   - react redux
+   - etc
+8. ignite boilerplate is the boilerplate for react native. i never used this boilerplate
+9. yes, i have little experience in native module for android.
